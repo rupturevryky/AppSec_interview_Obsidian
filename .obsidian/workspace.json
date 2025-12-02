@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Level/0. SQL Injection. Полное руководство.md",
+                "file": "Менторство/1. Внешняя разведка.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "0. SQL Injection. Полное руководство"
+              "title": "1. Внешняя разведка"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Level/0. SQL Injection. Полное руководство.md",
+                "file": "Менторство/1. Внешняя разведка.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 0. SQL Injection. Полное руководство"
+              "title": "Структура 1. Внешняя разведка"
             }
           }
         ],
@@ -169,12 +169,20 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "027237a4f29f3980",
+  "active": "466edc177f68777e",
   "lastOpenFiles": [
+    "Менторство/вопросы.md",
+    "().md",
+    "Менторство/1. Внешняя разведка.md",
+    "Метрики в canvas/OWASP Top 10.canvas",
+    "Менторство",
+    "Менторство/Инфра",
+    "Анализ уязвимостей в коде/1. Flask - python.md",
+    "Анализ уязвимостей в коде/2. Анализ URL на наличие уязвимостей.md",
+    "Junior Level/0. SQL Injection. Полное руководство.md",
     "Junior Level/15. Оценка рисков, моделирование процессов.md",
     "Junior Level/16. Уязвимости второго порядка.md",
     "Middle Level/SSI attack.md",
-    "Junior Level/0. SQL Injection. Полное руководство.md",
     "Assets/SSTI.png",
     "Middle Level/1. XSLT vs XXE.md",
     "Junior Level/Middle Level.md",
@@ -188,22 +196,17 @@
     "Junior Level/8. Криптография.md",
     "Junior Level/7.1. Что если компрометируется секрет для всех сессионных JWT токенов.md",
     "Junior Level/7. JWT.md",
-    "Анализ уязвимостей в коде/2. Анализ URL на наличие уязвимостей.md",
     "Junior Level/9.1. Примеры малициозных скриптов.md",
     "Junior Level/9. File Upload.md",
     "Junior Level/5. SSRF - защита и последствия.md",
     "Junior Level/4. Атрибуты Cookie.md",
     "Junior Level/3.1. XSS → RCE.md",
     "Junior Level/3. Импакт через XSS на сабдомене.md",
-    "Junior Level/2. Как хранить пароли.md",
-    "Junior Level/1. CSP, SOP, CORS.md",
-    "Анализ уязвимостей в коде/1. Flask - python.md",
     "Assets/BPMN.png",
     "Анализ уязвимостей в коде",
     "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
     "Метрики в canvas/15. Моделирование угроз по ФСТЭК.canvas",
     "Assets/OAuth 2.png",
-    "Вопросы собеседований/15. OAuth 2.0.md",
     "Assets/Origin Policy.png",
     "Assets/Site Scheme.png",
     "Assets/MITTR&AKK 2.png",
@@ -214,7 +217,6 @@
     "Junior Level",
     "Метрики в canvas",
     "Метрики в canvas/MITRE ATT&CK.canvas",
-    "Метрики в canvas/OWASP Top 10.canvas",
     "Assets"
   ]
 }
