@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менторство/1. Внешняя разведка.md",
+                "file": "Менторство/2. Внутренняя разведка, сетевая разведка.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Внешняя разведка"
+              "title": "2. Внутренняя разведка, сетевая разведка"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Менторство/1. Внешняя разведка.md",
+                "file": "Менторство/2. Внутренняя разведка, сетевая разведка.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 1. Внешняя разведка"
+              "title": "Структура 2. Внутренняя разведка, сетевая разведка"
             }
           }
         ],
@@ -169,11 +169,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "466edc177f68777e",
+  "active": "027237a4f29f3980",
   "lastOpenFiles": [
+    "Менторство/3. Аналитика уязвимостей.md",
+    "Менторство/2. Внутренняя разведка, сетевая разведка.md",
     "Менторство/вопросы.md",
-    "().md",
+    "Junior Level/8. Криптография.md",
+    "Junior Level/3.1. XSS → RCE.md",
+    "Junior Level/1. CSP, SOP, CORS.md",
     "Менторство/1. Внешняя разведка.md",
+    "().md",
     "Метрики в canvas/OWASP Top 10.canvas",
     "Менторство",
     "Менторство/Инфра",
@@ -193,15 +198,10 @@
     "Junior Level/12. Авторизация и аутентификация.md",
     "Junior Level/11. Race Condition и защита.md",
     "Junior Level/10. SQL - Prepared Statements.md",
-    "Junior Level/8. Криптография.md",
     "Junior Level/7.1. Что если компрометируется секрет для всех сессионных JWT токенов.md",
     "Junior Level/7. JWT.md",
     "Junior Level/9.1. Примеры малициозных скриптов.md",
     "Junior Level/9. File Upload.md",
-    "Junior Level/5. SSRF - защита и последствия.md",
-    "Junior Level/4. Атрибуты Cookie.md",
-    "Junior Level/3.1. XSS → RCE.md",
-    "Junior Level/3. Импакт через XSS на сабдомене.md",
     "Assets/BPMN.png",
     "Анализ уязвимостей в коде",
     "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
