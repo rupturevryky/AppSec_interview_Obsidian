@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ce9a7b304b9e185c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "831cded903681cab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Junior Level/19. Как с нуля поднять безопасную разработку.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19. Как с нуля поднять безопасную разработку"
-            }
-          }
-        ]
-      },
-      {
         "id": "ba5763ecbdf00339",
         "type": "tabs",
         "children": [
@@ -33,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Level/12. Race Condition и защита.md",
+                "file": "Junior Level/13. Авторизация и аутентификация.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "12. Race Condition и защита"
+              "title": "13. Авторизация и аутентификация"
+            }
+          },
+          {
+            "id": "56c9acee2ad68848",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -162,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Level/19. Как с нуля поднять безопасную разработку.md",
+                "file": "Junior Level/13. Авторизация и аутентификация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 19. Как с нуля поднять безопасную разработку"
+              "title": "Структура 13. Авторизация и аутентификация"
             }
           }
         ],
@@ -189,18 +179,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "831cded903681cab",
+  "active": "706f46ef831cc964",
   "lastOpenFiles": [
-    "Junior Level/👞👞 Обойти HR.md",
-    "Junior Level/19. Как с нуля поднять безопасную разработку.md",
-    "Junior Level/8. Защита от атак.md",
+    "Junior Level/13. Авторизация и аутентификация.md",
+    "Assets/OAuth_implicit_grant_type.png",
+    "Assets/OAuth_authorization_grant_type.png",
+    "Assets/OAuth 2.png",
     "Junior Level/12. Race Condition и защита.md",
+    "Junior Level/19. Как с нуля поднять безопасную разработку.md",
+    "Junior Level/👞👞 Обойти HR.md",
+    "Junior Level/8. Защита от атак.md",
     "Junior Level/17. Как за 5 лет эволюционировали Client Side атаки.md",
     "Junior Level/18. Оценка рисков, моделирование процессов.md",
     "Junior Level/16. Уязвимости второго порядка.md",
     "Junior Level/15. Роль IP Gateway.md",
     "Junior Level/14. Соль и перец.md",
-    "Junior Level/13. Авторизация и аутентификация.md",
     "Junior Level/11. SQL - Prepared Statements.md",
     "Junior Level/10.1. Примеры малициозных скриптов.md",
     "Junior Level/9. Криптография.md",
@@ -217,7 +210,6 @@
     "Менторство/14. Как вы проводите сканирования.md",
     "Менторство/12. Атаки на хедеры, понимание работы протоколов TCP&UDP.md",
     "Менторство/3. Аналитика уязвимостей.md",
-    "Менторство/1. Внешняя разведка.md",
     "Метрики в canvas/15. Моделирование угроз по ФСТЭК.canvas",
     "Метрики в canvas/OWASP Top 10.canvas",
     "Менторство",
@@ -227,14 +219,11 @@
     "Assets/BPMN.png",
     "Анализ уязвимостей в коде",
     "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
-    "Assets/OAuth 2.png",
     "Assets/Origin Policy.png",
     "Assets/Site Scheme.png",
     "Assets/MITTR&AKK 2.png",
     "Assets/MITTR&AKK 1.png",
     "Assets/OWASP Top 10 API.png",
-    "Assets/OWASP Top 10 Mobile.png",
-    "Assets/OWASP Top 10 web.png",
     "Junior Level",
     "Метрики в canvas",
     "Метрики в canvas/MITRE ATT&CK.canvas",
