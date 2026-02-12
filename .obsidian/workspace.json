@@ -13,25 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Level/13. Авторизация и аутентификация.md",
+                "file": "Junior Level/0. SQL Injection. Полное руководство.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "13. Авторизация и аутентификация"
+              "title": "0. SQL Injection. Полное руководство"
             }
           },
           {
-            "id": "56c9acee2ad68848",
+            "id": "c40bb6440b4b205f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Middle Level/2. SSI attack.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "2. SSI attack"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 325.5
   },
   "right": {
     "id": "d124ca65372acca9",
@@ -152,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Junior Level/13. Авторизация и аутентификация.md",
+                "file": "Middle Level/2. SSI attack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 13. Авторизация и аутентификация"
+              "title": "Структура 2. SSI attack"
             }
           }
         ],
@@ -179,37 +184,38 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "706f46ef831cc964",
+  "active": "c40bb6440b4b205f",
   "lastOpenFiles": [
-    "Junior Level/13. Авторизация и аутентификация.md",
+    "Junior Level/18. Как с нуля поднять безопасную разработку.md",
+    "Junior Level/17. Оценка рисков, моделирование процессов.md",
+    "Junior Level/16. Как за 5 лет эволюционировали Client Side атаки.md",
+    "Junior Level/15. Уязвимости второго порядка.md",
+    "Junior Level/14. Роль IP Gateway.md",
+    "Junior Level/13. Соль и перец.md",
+    "Junior Level/12. Авторизация и аутентификация.md",
+    "Junior Level/10. Race Condition и защита.md",
+    "Junior Level/11. DNS Rebinding.md",
+    "Junior Level/6.1. Примеры малициозных скриптов.md",
+    "Junior Level/9. Криптография.md",
+    "Junior Level/8. Защита от атак.md",
+    "Junior Level/7. JWT.md",
+    "Junior Level/6. SSRF - защита и последствия.md",
+    "Junior Level/5. Импакт через XSS на сабдомене.md",
+    "Junior Level/4. Атрибуты Cookie.md",
+    "Junior Level/3. Как хранить пароли.md",
+    "Junior Level/2. Защита от CSRF.md",
+    "Junior Level/0. SQL Injection. Полное руководство.md",
+    "Junior Level/0.1. Защита от SQL injection.md",
+    "Junior Level/1. CSP, SOP, CORS.md",
     "Assets/OAuth_implicit_grant_type.png",
     "Assets/OAuth_authorization_grant_type.png",
     "Assets/OAuth 2.png",
-    "Junior Level/12. Race Condition и защита.md",
-    "Junior Level/19. Как с нуля поднять безопасную разработку.md",
     "Junior Level/👞👞 Обойти HR.md",
-    "Junior Level/8. Защита от атак.md",
-    "Junior Level/17. Как за 5 лет эволюционировали Client Side атаки.md",
-    "Junior Level/18. Оценка рисков, моделирование процессов.md",
-    "Junior Level/16. Уязвимости второго порядка.md",
-    "Junior Level/15. Роль IP Gateway.md",
-    "Junior Level/14. Соль и перец.md",
-    "Junior Level/11. SQL - Prepared Statements.md",
-    "Junior Level/10.1. Примеры малициозных скриптов.md",
-    "Junior Level/9. Криптография.md",
     "Middle Level/☠️💀☠️ Windows/2. Повышение привилегий без логинов, паролей, хэшей.md",
     "Middle Level/☠️💀☠️ Windows/1. Где собирать секреты в windows.md",
     "Middle Level/☠️💀☠️ Windows",
-    "Middle Level/SSI attack.md",
-    "Junior Level/0. SQL Injection. Полное руководство.md",
+    "Middle Level/2. SSI attack.md",
     "Менторство/как вы ведёте отчётность.md",
-    "Junior Level/4. Атрибуты Cookie.md",
-    "Менторство/вопросы.md",
-    "Менторство/Что такое прокси и как его можно использовать в атаках.md",
-    "Менторство/механизмы безопасности ОС windows, обходы, повышение привилегий, уязвимости (LPE, RCE).md",
-    "Менторство/14. Как вы проводите сканирования.md",
-    "Менторство/12. Атаки на хедеры, понимание работы протоколов TCP&UDP.md",
-    "Менторство/3. Аналитика уязвимостей.md",
     "Метрики в canvas/15. Моделирование угроз по ФСТЭК.canvas",
     "Метрики в canvas/OWASP Top 10.canvas",
     "Менторство",
